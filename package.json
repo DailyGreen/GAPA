@@ -15,6 +15,5 @@
     "concurrently": "^3.1.0"
   },
   "dependencies": {
-    "simplebar-vue": "^1.4.0"
   }
 }
